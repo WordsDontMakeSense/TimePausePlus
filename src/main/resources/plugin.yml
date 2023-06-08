@@ -1,0 +1,6 @@
+name: TimePause+
+version: '${project.version}'
+main: me.wordsdontmakesense.timepause.TimePause
+api-version: 1.20
+authors: [ WordsDontMakeSense ]
+description: TimePause+ is a revolutionary Minecraft plugin that brings a new level of control over time in your server. With TimePause+, the flow of time will come to a halt whenever players are not online, allowing you to create a truly immersive and flexible gameplay experience.
